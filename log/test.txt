@@ -1,0 +1,638 @@
+2026-01-29 11:57:35,461 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 11:57:35,465 - Stocklogger - DEBUG - cash: 2685325.791801105, stock a: 39016, stock b:13753, debt: [{'loan': 'yes', 'amount': 3462488.836612843, 'loan_type': 0, 'repayment_date': 66}]
+2026-01-29 11:57:35,465 - Stocklogger - DEBUG - cash: 3137960.426893116, stock a: 4190, stock b:19602, debt: [{'loan': 'yes', 'amount': 1838722.0392689512, 'loan_type': 2, 'repayment_date': 154}]
+2026-01-29 11:57:35,465 - Stocklogger - DEBUG - cash: 1704395.6765923207, stock a: 49709, stock b:16298, debt: [{'loan': 'yes', 'amount': 2458926.081035105, 'loan_type': 2, 'repayment_date': 264}]
+2026-01-29 11:57:35,466 - Stocklogger - DEBUG - cash: 152123.35049914315, stock a: 13338, stock b:48769, debt: [{'loan': 'yes', 'amount': 80850.1143008017, 'loan_type': 1, 'repayment_date': 220}]
+2026-01-29 11:57:35,466 - Stocklogger - DEBUG - cash: 12702.89543695069, stock a: 144101, stock b:4112, debt: [{'loan': 'yes', 'amount': 2279251.4626559294, 'loan_type': 2, 'repayment_date': 44}]
+2026-01-29 11:57:35,467 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 11:57:35,467 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 13:55:52,155 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 13:55:52,156 - Stocklogger - DEBUG - cash: 1124072.8181966192, stock a: 110365, stock b:3900, debt: [{'loan': 'yes', 'amount': 1444364.043113377, 'loan_type': 0, 'repayment_date': 110}]
+2026-01-29 13:55:52,156 - Stocklogger - DEBUG - cash: 93955.69320795938, stock a: 146194, stock b:11898, debt: [{'loan': 'yes', 'amount': 3155105.0826923465, 'loan_type': 2, 'repayment_date': 66}]
+2026-01-29 13:55:52,156 - Stocklogger - DEBUG - cash: 597407.6335695422, stock a: 129988, stock b:3653, debt: [{'loan': 'yes', 'amount': 4474470.1641439125, 'loan_type': 0, 'repayment_date': 242}]
+2026-01-29 13:55:52,157 - Stocklogger - DEBUG - cash: 223660.05694056835, stock a: 11829, stock b:100686, debt: [{'loan': 'yes', 'amount': 2513187.1058201054, 'loan_type': 2, 'repayment_date': 88}]
+2026-01-29 13:55:52,157 - Stocklogger - DEBUG - cash: 1151402.246011732, stock a: 40501, stock b:59491, debt: [{'loan': 'yes', 'amount': 1358978.9597559692, 'loan_type': 2, 'repayment_date': 110}]
+2026-01-29 13:55:52,157 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 13:55:52,157 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 13:58:31,987 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 13:58:31,988 - Stocklogger - DEBUG - cash: 557429.1906178497, stock a: 41155, stock b:79933, debt: [{'loan': 'yes', 'amount': 3011026.3516186136, 'loan_type': 1, 'repayment_date': 176}]
+2026-01-29 13:58:31,989 - Stocklogger - DEBUG - cash: 2314797.2338431645, stock a: 12790, stock b:55135, debt: [{'loan': 'yes', 'amount': 3022854.74770455, 'loan_type': 0, 'repayment_date': 66}]
+2026-01-29 13:58:31,989 - Stocklogger - DEBUG - cash: 72402.71499053041, stock a: 42394, stock b:89412, debt: [{'loan': 'yes', 'amount': 4898062.694511026, 'loan_type': 2, 'repayment_date': 44}]
+2026-01-29 13:58:31,990 - Stocklogger - DEBUG - cash: 1277467.4031533874, stock a: 21536, stock b:49817, debt: [{'loan': 'yes', 'amount': 1389194.2143557267, 'loan_type': 1, 'repayment_date': 176}]
+2026-01-29 13:58:31,991 - Stocklogger - DEBUG - cash: 2335158.6267476203, stock a: 44347, stock b:21313, debt: [{'loan': 'yes', 'amount': 932804.269728858, 'loan_type': 0, 'repayment_date': 88}]
+2026-01-29 13:58:31,991 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 13:58:31,992 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:00:08,600 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 14:00:08,600 - Stocklogger - DEBUG - cash: 413462.021550921, stock a: 93318, stock b:20679, debt: [{'loan': 'yes', 'amount': 2971409.486030681, 'loan_type': 0, 'repayment_date': 176}]
+2026-01-29 14:00:08,600 - Stocklogger - DEBUG - cash: 402070.57278042304, stock a: 92900, stock b:9290, debt: [{'loan': 'yes', 'amount': 989565.1696523444, 'loan_type': 2, 'repayment_date': 66}]
+2026-01-29 14:00:08,601 - Stocklogger - DEBUG - cash: 386784.90373221575, stock a: 88405, stock b:22656, debt: [{'loan': 'yes', 'amount': 3090379.2066621645, 'loan_type': 2, 'repayment_date': 132}]
+2026-01-29 14:00:08,601 - Stocklogger - DEBUG - cash: 193414.9769839877, stock a: 8207, stock b:106438, debt: [{'loan': 'yes', 'amount': 3703415.011582989, 'loan_type': 2, 'repayment_date': 66}]
+2026-01-29 14:00:08,601 - Stocklogger - DEBUG - cash: 97994.41477629179, stock a: 33090, stock b:58558, debt: [{'loan': 'yes', 'amount': 137950.40822868422, 'loan_type': 1, 'repayment_date': 242}]
+2026-01-29 14:00:08,601 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 14:00:08,602 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:06:09,692 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 14:06:09,692 - Stocklogger - DEBUG - cash: 2100259.2662695586, stock a: 55601, stock b:7432, debt: [{'loan': 'yes', 'amount': 3301911.0763070257, 'loan_type': 2, 'repayment_date': 264}]
+2026-01-29 14:06:09,693 - Stocklogger - DEBUG - cash: 686379.2750342746, stock a: 28174, stock b:78931, debt: [{'loan': 'yes', 'amount': 120807.01772492485, 'loan_type': 0, 'repayment_date': 88}]
+2026-01-29 14:06:09,693 - Stocklogger - DEBUG - cash: 957612.7571168252, stock a: 84764, stock b:2988, debt: [{'loan': 'yes', 'amount': 2887802.1803161707, 'loan_type': 1, 'repayment_date': 198}]
+2026-01-29 14:06:09,693 - Stocklogger - DEBUG - cash: 1242997.9046205187, stock a: 16022, stock b:69796, debt: [{'loan': 'yes', 'amount': 1705515.4808762036, 'loan_type': 2, 'repayment_date': 198}]
+2026-01-29 14:06:09,694 - Stocklogger - DEBUG - cash: 557854.4134055169, stock a: 103594, stock b:14086, debt: [{'loan': 'yes', 'amount': 3755763.7346971175, 'loan_type': 1, 'repayment_date': 220}]
+2026-01-29 14:06:09,694 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 14:06:09,694 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:15:01,921 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 14:15:01,921 - Stocklogger - DEBUG - cash: 1044639.8625460007, stock a: 6807, stock b:53628, debt: [{'loan': 'yes', 'amount': 473073.57477589295, 'loan_type': 2, 'repayment_date': 242}]
+2026-01-29 14:15:01,921 - Stocklogger - DEBUG - cash: 589986.9771444905, stock a: 3752, stock b:65117, debt: [{'loan': 'yes', 'amount': 367018.88284048025, 'loan_type': 1, 'repayment_date': 154}]
+2026-01-29 14:15:01,922 - Stocklogger - DEBUG - cash: 1115823.0872606528, stock a: 76046, stock b:35852, debt: [{'loan': 'yes', 'amount': 1120768.3730506685, 'loan_type': 0, 'repayment_date': 198}]
+2026-01-29 14:15:01,922 - Stocklogger - DEBUG - cash: 740634.5317947565, stock a: 8565, stock b:52393, debt: [{'loan': 'yes', 'amount': 1699514.12385004, 'loan_type': 0, 'repayment_date': 132}]
+2026-01-29 14:15:01,922 - Stocklogger - DEBUG - cash: 2955327.3732213806, stock a: 12715, stock b:22172, debt: [{'loan': 'yes', 'amount': 841092.571605328, 'loan_type': 2, 'repayment_date': 198}]
+2026-01-29 14:15:01,923 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 14:15:01,923 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:15:02,823 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:04,012 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:05,013 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:15:05,581 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:06,701 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:07,703 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:15:08,232 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:09,368 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:10,370 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:15:10,907 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:12,042 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:13,044 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:15:14,008 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:15,135 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:16,136 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:15:16,136 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:15:17,047 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:18,192 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:15:19,193 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:25:26,603 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 14:25:26,604 - Stocklogger - DEBUG - cash: 1615595.954737795, stock a: 38552, stock b:44535, debt: [{'loan': 'yes', 'amount': 2926983.428918321, 'loan_type': 1, 'repayment_date': 220}]
+2026-01-29 14:25:26,605 - Stocklogger - DEBUG - cash: 2723215.8705336167, stock a: 26110, stock b:20623, debt: [{'loan': 'yes', 'amount': 851279.1264260866, 'loan_type': 0, 'repayment_date': 220}]
+2026-01-29 14:25:26,606 - Stocklogger - DEBUG - cash: 998058.209699354, stock a: 20602, stock b:24402, debt: [{'loan': 'yes', 'amount': 2349014.066661101, 'loan_type': 2, 'repayment_date': 132}]
+2026-01-29 14:25:26,606 - Stocklogger - DEBUG - cash: 844503.209390674, stock a: 24067, stock b:39274, debt: [{'loan': 'yes', 'amount': 2417188.578312667, 'loan_type': 1, 'repayment_date': 88}]
+2026-01-29 14:25:26,606 - Stocklogger - DEBUG - cash: 2014696.4802169737, stock a: 56192, stock b:3196, debt: [{'loan': 'yes', 'amount': 3024245.514663244, 'loan_type': 0, 'repayment_date': 66}]
+2026-01-29 14:25:26,607 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 14:25:26,607 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:25:27,611 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:28,739 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:29,740 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:25:30,641 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:31,779 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:32,780 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:25:33,683 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:34,801 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:35,803 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:25:36,355 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:37,459 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:38,460 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:25:39,538 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:40,657 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:41,658 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:25:41,658 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:25:42,209 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:43,343 - Stocklogger - WARNING - Gemini api retry...404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-29 14:25:44,345 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-01-29 14:36:20,637 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 14:36:20,638 - Stocklogger - DEBUG - cash: 1440535.2739156024, stock a: 105185, stock b:5381, debt: [{'loan': 'yes', 'amount': 4203869.621126254, 'loan_type': 2, 'repayment_date': 44}]
+2026-01-29 14:36:20,638 - Stocklogger - DEBUG - cash: 428880.99056525464, stock a: 78428, stock b:39428, debt: [{'loan': 'yes', 'amount': 363114.49566075794, 'loan_type': 1, 'repayment_date': 66}]
+2026-01-29 14:36:20,638 - Stocklogger - DEBUG - cash: 982153.7800085667, stock a: 98214, stock b:14110, debt: [{'loan': 'yes', 'amount': 1390721.7313670078, 'loan_type': 2, 'repayment_date': 66}]
+2026-01-29 14:36:20,639 - Stocklogger - DEBUG - cash: 1227917.4167314416, stock a: 95935, stock b:9058, debt: [{'loan': 'yes', 'amount': 1972337.3427150764, 'loan_type': 1, 'repayment_date': 110}]
+2026-01-29 14:36:20,639 - Stocklogger - DEBUG - cash: 2357085.1631008107, stock a: 54770, stock b:21035, debt: [{'loan': 'yes', 'amount': 2457496.0570318466, 'loan_type': 2, 'repayment_date': 176}]
+2026-01-29 14:36:20,639 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 14:36:20,639 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:36:20,640 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,640 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,640 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,640 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,641 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:36:20,641 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-01-29 14:36:20,641 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,642 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,642 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,642 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,642 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:36:20,642 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-01-29 14:36:20,643 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,643 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,643 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,643 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,644 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:36:20,644 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-01-29 14:36:20,645 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,645 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,645 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,646 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,646 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:36:20,646 - Stocklogger - INFO - INFO: Agent 3 decide not to loan
+2026-01-29 14:36:20,647 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,647 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,647 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,648 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:36:20,648 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:36:20,648 - Stocklogger - INFO - INFO: Agent 4 decide not to loan
+2026-01-29 14:36:20,649 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:36:20,649 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,649 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,649 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,650 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:36:20,650 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:36:20,650 - Stocklogger - INFO - INFO: Agent 1 decide not to action
+2026-01-29 14:41:51,600 - Stocklogger - DEBUG - Agents initial...
+2026-01-29 14:41:51,601 - Stocklogger - DEBUG - cash: 3583883.6008754964, stock a: 4604, stock b:8147, debt: [{'loan': 'yes', 'amount': 1058812.0976596582, 'loan_type': 1, 'repayment_date': 88}]
+2026-01-29 14:41:51,601 - Stocklogger - DEBUG - cash: 1471583.7470468434, stock a: 453, stock b:15917, debt: [{'loan': 'yes', 'amount': 1749759.1544663073, 'loan_type': 0, 'repayment_date': 132}]
+2026-01-29 14:41:51,602 - Stocklogger - DEBUG - cash: 1475927.6410604543, stock a: 25322, stock b:27472, debt: [{'loan': 'yes', 'amount': 1292029.144115369, 'loan_type': 1, 'repayment_date': 110}]
+2026-01-29 14:41:51,606 - Stocklogger - DEBUG - cash: 1570350.7848798526, stock a: 17095, stock b:47522, debt: [{'loan': 'yes', 'amount': 1279242.8464562583, 'loan_type': 1, 'repayment_date': 132}]
+2026-01-29 14:41:51,606 - Stocklogger - DEBUG - cash: 1314523.1554729904, stock a: 48531, stock b:54630, debt: [{'loan': 'yes', 'amount': 1160050.529367171, 'loan_type': 0, 'repayment_date': 198}]
+2026-01-29 14:41:51,607 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-01-29 14:41:51,608 - Stocklogger - DEBUG - --------DAY 1---------
+2026-01-29 14:41:51,608 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,609 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,609 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,609 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,610 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,610 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-01-29 14:41:51,610 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,610 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,611 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,611 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,611 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,612 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-01-29 14:41:51,612 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,612 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,612 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,613 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,614 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,614 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-01-29 14:41:51,614 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,615 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,615 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,615 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,615 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,616 - Stocklogger - INFO - INFO: Agent 3 decide not to loan
+2026-01-29 14:41:51,616 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,616 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,616 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,617 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-01-29 14:41:51,617 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,617 - Stocklogger - INFO - INFO: Agent 4 decide not to loan
+2026-01-29 14:41:51,618 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:41:51,618 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,619 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,620 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,621 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,621 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,621 - Stocklogger - INFO - INFO: Agent 3 decide not to action
+2026-01-29 14:41:51,874 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,874 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,875 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,875 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,875 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,875 - Stocklogger - INFO - INFO: Agent 0 decide not to action
+2026-01-29 14:41:51,946 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,946 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,947 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,947 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:51,948 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:51,948 - Stocklogger - INFO - INFO: Agent 1 decide not to action
+2026-01-29 14:41:52,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,038 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,038 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,038 - Stocklogger - INFO - INFO: Agent 4 decide not to action
+2026-01-29 14:41:52,094 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,095 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,095 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,095 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,096 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,096 - Stocklogger - INFO - INFO: Agent 2 decide not to action
+2026-01-29 14:41:52,210 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,211 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,211 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,211 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,212 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,212 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:52,252 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,252 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,252 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,252 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,253 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,253 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:52,320 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,321 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,321 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,321 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,321 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,322 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:52,385 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,385 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,386 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,386 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,386 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,386 - Stocklogger - INFO - Agent 3 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:52,483 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,483 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,484 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,484 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,484 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,484 - Stocklogger - INFO - Agent 4 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:52,540 - Stocklogger - DEBUG - DAY 1 ends, display forum messages...
+2026-01-29 14:41:52,540 - Stocklogger - INFO - Agent 0 says: {}
+2026-01-29 14:41:52,541 - Stocklogger - INFO - Agent 1 says: {}
+2026-01-29 14:41:52,541 - Stocklogger - INFO - Agent 2 says: {}
+2026-01-29 14:41:52,542 - Stocklogger - INFO - Agent 3 says: {}
+2026-01-29 14:41:52,542 - Stocklogger - INFO - Agent 4 says: {}
+2026-01-29 14:41:52,543 - Stocklogger - DEBUG - --------DAY 2---------
+2026-01-29 14:41:52,543 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,544 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,544 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,544 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,544 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,545 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-01-29 14:41:52,545 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,545 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,546 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,546 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,546 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,547 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-01-29 14:41:52,547 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,547 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,547 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,548 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,548 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,548 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-01-29 14:41:52,548 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,549 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,549 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,549 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,549 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,550 - Stocklogger - INFO - INFO: Agent 3 decide not to loan
+2026-01-29 14:41:52,550 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,551 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,551 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,551 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-01-29 14:41:52,552 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,552 - Stocklogger - INFO - INFO: Agent 4 decide not to loan
+2026-01-29 14:41:52,552 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:41:52,553 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,553 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,553 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,554 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,554 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,554 - Stocklogger - INFO - INFO: Agent 2 decide not to action
+2026-01-29 14:41:52,610 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,610 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,611 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,611 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,611 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,611 - Stocklogger - INFO - INFO: Agent 1 decide not to action
+2026-01-29 14:41:52,665 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,666 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,666 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,666 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,666 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,667 - Stocklogger - INFO - INFO: Agent 3 decide not to action
+2026-01-29 14:41:52,726 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,726 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,726 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,726 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,727 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,727 - Stocklogger - INFO - INFO: Agent 0 decide not to action
+2026-01-29 14:41:52,817 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,818 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,818 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,818 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,819 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:52,819 - Stocklogger - INFO - INFO: Agent 4 decide not to action
+2026-01-29 14:41:52,926 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,927 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,927 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,928 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,928 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,928 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:52,982 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,982 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,983 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,983 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:52,983 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:52,983 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,038 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,038 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,038 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,119 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,119 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,119 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,119 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,120 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,120 - Stocklogger - INFO - Agent 3 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,190 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,190 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,191 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,191 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,191 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,191 - Stocklogger - INFO - Agent 4 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,252 - Stocklogger - DEBUG - DAY 2 ends, display forum messages...
+2026-01-29 14:41:53,253 - Stocklogger - INFO - Agent 0 says: {}
+2026-01-29 14:41:53,253 - Stocklogger - INFO - Agent 1 says: {}
+2026-01-29 14:41:53,253 - Stocklogger - INFO - Agent 2 says: {}
+2026-01-29 14:41:53,253 - Stocklogger - INFO - Agent 3 says: {}
+2026-01-29 14:41:53,254 - Stocklogger - INFO - Agent 4 says: {}
+2026-01-29 14:41:53,254 - Stocklogger - DEBUG - --------DAY 3---------
+2026-01-29 14:41:53,254 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,254 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,255 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,255 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,255 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,255 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-01-29 14:41:53,255 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,256 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,256 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,256 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,256 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,256 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-01-29 14:41:53,257 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,257 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,257 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,257 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,258 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,258 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-01-29 14:41:53,258 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,259 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,259 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,260 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,260 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,260 - Stocklogger - INFO - INFO: Agent 3 decide not to loan
+2026-01-29 14:41:53,261 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,261 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,261 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,261 - Stocklogger - DEBUG - Wrong json content in response: 3
+2026-01-29 14:41:53,261 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,262 - Stocklogger - INFO - INFO: Agent 4 decide not to loan
+2026-01-29 14:41:53,262 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:41:53,262 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,262 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,263 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,263 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,263 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,265 - Stocklogger - INFO - INFO: Agent 0 decide not to action
+2026-01-29 14:41:53,370 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,370 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,371 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,371 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,371 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,371 - Stocklogger - INFO - INFO: Agent 1 decide not to action
+2026-01-29 14:41:53,446 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,446 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,447 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,447 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,447 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,447 - Stocklogger - INFO - INFO: Agent 4 decide not to action
+2026-01-29 14:41:53,521 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,522 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,522 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,522 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,523 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,523 - Stocklogger - INFO - INFO: Agent 2 decide not to action
+2026-01-29 14:41:53,628 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,628 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,629 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,629 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,629 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:53,629 - Stocklogger - INFO - INFO: Agent 3 decide not to action
+2026-01-29 14:41:53,737 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,738 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,738 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,739 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,739 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,739 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,798 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,798 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,798 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,799 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,799 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,799 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,882 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,882 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,883 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,883 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,883 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,883 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:53,946 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,946 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,947 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,947 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:53,947 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:53,947 - Stocklogger - INFO - Agent 3 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,036 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,036 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,036 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,037 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,037 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:54,037 - Stocklogger - INFO - Agent 4 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,095 - Stocklogger - DEBUG - DAY 3 ends, display forum messages...
+2026-01-29 14:41:54,095 - Stocklogger - INFO - Agent 0 says: {}
+2026-01-29 14:41:54,096 - Stocklogger - INFO - Agent 1 says: {}
+2026-01-29 14:41:54,096 - Stocklogger - INFO - Agent 2 says: {}
+2026-01-29 14:41:54,096 - Stocklogger - INFO - Agent 3 says: {}
+2026-01-29 14:41:54,096 - Stocklogger - INFO - Agent 4 says: {}
+2026-01-29 14:41:54,097 - Stocklogger - DEBUG - --------DAY 4---------
+2026-01-29 14:41:54,097 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,097 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,097 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,097 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,098 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,098 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-01-29 14:41:54,098 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,098 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,098 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,099 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,099 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,099 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-01-29 14:41:54,099 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,099 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,099 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,100 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,100 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,100 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-01-29 14:41:54,100 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,101 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,102 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,102 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,102 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,102 - Stocklogger - INFO - INFO: Agent 3 decide not to loan
+2026-01-29 14:41:54,103 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,103 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,103 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,103 - Stocklogger - DEBUG - Wrong json content in response: 4
+2026-01-29 14:41:54,104 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,104 - Stocklogger - INFO - INFO: Agent 4 decide not to loan
+2026-01-29 14:41:54,104 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:41:54,104 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,105 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,105 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,105 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,105 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,106 - Stocklogger - INFO - INFO: Agent 2 decide not to action
+2026-01-29 14:41:54,165 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,166 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,166 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,167 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,167 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,167 - Stocklogger - INFO - INFO: Agent 0 decide not to action
+2026-01-29 14:41:54,227 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,227 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,227 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,227 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,228 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,228 - Stocklogger - INFO - INFO: Agent 1 decide not to action
+2026-01-29 14:41:54,289 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,289 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,289 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,290 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,290 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,290 - Stocklogger - INFO - INFO: Agent 3 decide not to action
+2026-01-29 14:41:54,352 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,353 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,353 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,353 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,353 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,354 - Stocklogger - INFO - INFO: Agent 4 decide not to action
+2026-01-29 14:41:54,461 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,462 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,462 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,463 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,463 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:54,463 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,551 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,551 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,551 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,552 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,552 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:54,552 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,664 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,665 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,665 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,666 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,666 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:54,666 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,735 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,736 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,736 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,736 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,736 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:54,737 - Stocklogger - INFO - Agent 3 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,797 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,797 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,797 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,797 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,798 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:54,798 - Stocklogger - INFO - Agent 4 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:54,860 - Stocklogger - DEBUG - DAY 4 ends, display forum messages...
+2026-01-29 14:41:54,860 - Stocklogger - INFO - Agent 0 says: {}
+2026-01-29 14:41:54,861 - Stocklogger - INFO - Agent 1 says: {}
+2026-01-29 14:41:54,861 - Stocklogger - INFO - Agent 2 says: {}
+2026-01-29 14:41:54,861 - Stocklogger - INFO - Agent 3 says: {}
+2026-01-29 14:41:54,861 - Stocklogger - INFO - Agent 4 says: {}
+2026-01-29 14:41:54,861 - Stocklogger - DEBUG - --------DAY 5---------
+2026-01-29 14:41:54,862 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,862 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,862 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,862 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,862 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,863 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-01-29 14:41:54,863 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,863 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,863 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,863 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,864 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,864 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-01-29 14:41:54,864 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,864 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,864 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,864 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,865 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,865 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-01-29 14:41:54,865 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,865 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,865 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,866 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,866 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,866 - Stocklogger - INFO - INFO: Agent 3 decide not to loan
+2026-01-29 14:41:54,866 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,867 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,867 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,867 - Stocklogger - DEBUG - Wrong json content in response: 5
+2026-01-29 14:41:54,867 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,868 - Stocklogger - INFO - INFO: Agent 4 decide not to loan
+2026-01-29 14:41:54,868 - Stocklogger - DEBUG - SESSION 1
+2026-01-29 14:41:54,868 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,868 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,869 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,869 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,869 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,869 - Stocklogger - INFO - INFO: Agent 2 decide not to action
+2026-01-29 14:41:54,931 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,931 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,932 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,932 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,932 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,932 - Stocklogger - INFO - INFO: Agent 4 decide not to action
+2026-01-29 14:41:54,995 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,995 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,995 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,995 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:54,996 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:54,996 - Stocklogger - INFO - INFO: Agent 3 decide not to action
+2026-01-29 14:41:55,072 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,072 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,073 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,073 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,073 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:55,073 - Stocklogger - INFO - INFO: Agent 1 decide not to action
+2026-01-29 14:41:55,142 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,143 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,143 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,143 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,144 - Stocklogger - WARNING - WARNING: Action format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-01-29 14:41:55,144 - Stocklogger - INFO - INFO: Agent 0 decide not to action
+2026-01-29 14:41:55,255 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,256 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,256 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,256 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,256 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:55,257 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:55,343 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,343 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,344 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,344 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,344 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:55,344 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:55,412 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,412 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,413 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,413 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,413 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:55,413 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:55,477 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,477 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,478 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,478 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,478 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:55,478 - Stocklogger - INFO - Agent 3 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:55,541 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,542 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,542 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,543 - Stocklogger - DEBUG - Wrong json content in response: {}
+2026-01-29 14:41:55,543 - Stocklogger - WARNING - WARNING: Estimation format try times > MAX_TRY_TIMES. Skip as all 'no' today.
+2026-01-29 14:41:55,543 - Stocklogger - INFO - Agent 4 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-01-29 14:41:55,607 - Stocklogger - DEBUG - DAY 5 ends, display forum messages...
+2026-01-29 14:41:55,608 - Stocklogger - INFO - Agent 0 says: {}
+2026-01-29 14:41:55,608 - Stocklogger - INFO - Agent 1 says: {}
+2026-01-29 14:41:55,608 - Stocklogger - INFO - Agent 2 says: {}
+2026-01-29 14:41:55,609 - Stocklogger - INFO - Agent 3 says: {}
+2026-01-29 14:41:55,609 - Stocklogger - INFO - Agent 4 says: {}
+2026-01-29 14:41:55,609 - Stocklogger - DEBUG - --------Simulation finished!--------
+2026-01-29 14:41:55,610 - Stocklogger - DEBUG - --------Agents action history--------
